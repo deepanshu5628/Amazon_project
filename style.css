@@ -154,13 +154,15 @@
 /* box 6 */
 
 .nav-box6 {
-    display: flex;
+    display: inline;
     font-size: .85rem;
     font-weight: bold;
 }
 
-.nav-box6 p {
+.nav-box6 a {
     padding-top: .8rem;
+    text-decoration: none;
+    color: white;
 }
 
 .nav-box6 i {
@@ -198,8 +200,9 @@
 }
 
 .panel3 {
-    font-size: .85rem;
+    font-size: 1.2rem;
     font-weight: bold;
+    padding-right: 10px;
 }
 
 
