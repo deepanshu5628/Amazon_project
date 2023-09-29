@@ -209,7 +209,7 @@
 /* main img section */
 
 .hero-section {
-    height: 25rem;
+    height: 26rem;
     /* width: 100%; */
     background-image: url("/images/hero_image.jpg");
     background-size: cover;
@@ -226,7 +226,7 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     position: relative;
-    bottom: 7rem;
+    bottom: 4rem;
     background-color: #e2e7e6;
 }
 
@@ -308,4 +308,69 @@
     font-size: 14px;
     margin-top: 0.69rem;
     margin-bottom: 0.69rem;
+}
+
+
+/* foot panel 2 completed */
+
+.footpanel-3 {
+    background-color: #222f3d;
+    color: white;
+    height: 78px;
+    width: 100%;
+    border-top: 0.2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* justify-content: space-evenly; */
+}
+
+
+/* foot panel 3 completed */
+
+.foot-panel4 {
+    width: 100%;
+    height: 78px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.foot4-content {
+    margin-top: 15px;
+    width: 80%;
+}
+
+.pages {
+    text-align: center;
+}
+
+.pages a {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 0.79rem;
+}
+
+.copyright {
+    padding-top: 5px;
+    font-size: 0.79rem;
+    text-align: center;
+}
+
+
+/* panel 4 completed */
+
+
+/* clearing all a tags */
+
+ul a {
+    text-decoration: none;
+    color: white;
+}
+
+.foot-panel4 a {
+    text-decoration: none;
+    color: white;
 }
