@@ -150,3 +150,20 @@
 
 
 /* box 6 */
+
+.nav-box6 {
+    display: flex;
+    font-size: .85rem;
+    font-weight: bold;
+}
+
+.nav-box6 p {
+    padding-top: .8rem;
+}
+
+.nav-box6 i {
+    font-size: 1.7rem;
+}
+
+
+/* header completed */
