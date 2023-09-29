@@ -63,9 +63,12 @@
     margin-left: 15px;
 }
 
-.add-icon>p {
+.add-icon>a {
     font-size: 1rem;
     margin-left: 3px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
 }
 
 
@@ -109,3 +112,23 @@
 
 
 /* box-4 of navbar */
+
+.nav-box4 a {
+    color: white;
+    text-decoration: none;
+}
+
+#first_line {
+    font-size: .7rem;
+}
+
+#select_list {
+    background-color: #0f1111;
+    color: white;
+    border: none;
+    font-size: .85rem;
+    font-weight: bold;
+}
+
+
+/* box-5 */
