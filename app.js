@@ -8,4 +8,4 @@ let backtotop = document.querySelector("#backtotop");
 backtotop.addEventListener("click", () => {
     // console.log("button is cliked")
     document.documentElement.scrollTop = 0;
-})
+});
